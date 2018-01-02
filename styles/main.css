@@ -2,7 +2,7 @@ body {
   padding-bottom: 5rem;
 }
 
-header {
+#header {
   background: url(../images/irma-cagliostro-186352.jpg) center / cover;
   height: 60vh;
   justify-content: center;
